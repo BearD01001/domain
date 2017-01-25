@@ -1,0 +1,16 @@
+{
+  "css": [
+    "http://domain.vsv.io/assets/docpress-rsc-style.css",
+    "http://domain.vsv.io/assets/docpress-custom.css"
+  ],
+  "markdown": {
+    "typographer": true,
+    "plugins": {
+      "decorate": {}
+    }
+  },
+  "plugins": {
+    "docpress-core": {},
+    "docpress-base": {}
+  }
+}

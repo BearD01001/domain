@@ -1,5 +1,5 @@
 {
-  "name": "domains",
+  "name": "domain",
   "version": "1.0.0",
   "description": "The list of domain names I hold.",
   "main": "README.md",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beard01001/domains.git"
+    "url": "git+https://github.com/beard01001/domain.git"
   },
   "keywords": [
     "domain",
@@ -17,10 +17,15 @@
   "author": "BearD01001",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/beard01001/domains/issues"
+    "url": "https://github.com/beard01001/domain/issues"
   },
-  "homepage": "https://github.com/beard01001/domains#readme",
+  "homepage": "https://github.com/beard01001/domain#readme",
   "devDependencies": {
-    "docpress": "0.7.1"
+    "docpress": "0.7.1",
+    "markdown-it-decorate": "^1.2.2"
+  },
+  "dependencies": {
+    "docpress-base": "^0.7.4",
+    "docpress-core": "^0.7.1"
   }
 }
