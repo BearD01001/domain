@@ -1,0 +1,26 @@
+{
+  "name": "domains",
+  "version": "1.0.0",
+  "description": "The list of domain names I hold.",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beard01001/domains.git"
+  },
+  "keywords": [
+    "domain",
+    "name"
+  ],
+  "author": "BearD01001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beard01001/domains/issues"
+  },
+  "homepage": "https://github.com/beard01001/domains#readme",
+  "devDependencies": {
+    "docpress": "0.7.1"
+  }
+}
