@@ -2,20 +2,34 @@
   "toc": {
     "sections": [
       {
-        "title": "米表(Domain names)",
+        "title": "米表",
         "source": "README.md",
         "expand": true,
         "url": "index.html",
-        "slug": "index"
+        "slug": "index",
+        "headings": [
+          {
+            "title": "Domain selling list",
+            "depth": 2,
+            "id": "domain-selling-list"
+          }
+        ]
       }
     ]
   },
   "index": {
     "index.html": {
       "source": "README.md",
-      "title": "米表(Domain names)",
-      "pageTitle": "米表(Domain names)",
-      "slug": "index"
+      "title": "米表",
+      "pageTitle": "米表",
+      "slug": "index",
+      "headings": [
+        {
+          "title": "Domain selling list",
+          "depth": 2,
+          "id": "domain-selling-list"
+        }
+      ]
     }
   },
   "sources": {
