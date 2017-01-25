@@ -2,7 +2,7 @@
   "toc": {
     "sections": [
       {
-        "title": "domains",
+        "title": "米表(Domain names)",
         "source": "README.md",
         "expand": true,
         "url": "index.html",
@@ -13,8 +13,8 @@
   "index": {
     "index.html": {
       "source": "README.md",
-      "title": "domains",
-      "pageTitle": "domains",
+      "title": "米表(Domain names)",
+      "pageTitle": "米表(Domain names)",
       "slug": "index"
     }
   },
