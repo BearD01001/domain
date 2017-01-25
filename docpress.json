@@ -1,7 +1,7 @@
 {
   "css": [
-    "http://domain.vsv.io/assets/docpress-rsc-style.css",
-    "http://domain.vsv.io/assets/docpress-custom.css"
+    "http://domain.vsv.io/css/docpress-rsc-style.css",
+    "http://domain.vsv.io/css/docpress-custom.css"
   ],
   "markdown": {
     "typographer": true,
