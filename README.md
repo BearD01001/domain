@@ -37,6 +37,9 @@
     > **极趣、集趣、汲取**，极限运动、收集爱好者、知识经验学习、自我充电
 
 ## OTHER
+### Dream.Menu
+<!--{h3:style='display:none' id='1'}-->
+
 <ul>
     <li>
         <h3><a href="http://Dream.Menu">Dream.Menu</a></h3>
