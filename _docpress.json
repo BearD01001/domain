@@ -102,7 +102,14 @@
           {
             "title": "OTHER",
             "depth": 2,
-            "id": "other"
+            "id": "other",
+            "headings": [
+              {
+                "title": "Dream.Menu",
+                "depth": 3,
+                "id": "dream.menu"
+              }
+            ]
           }
         ]
       }
@@ -209,7 +216,14 @@
         {
           "title": "OTHER",
           "depth": 2,
-          "id": "other"
+          "id": "other",
+          "headings": [
+            {
+              "title": "Dream.Menu",
+              "depth": 3,
+              "id": "dream.menu"
+            }
+          ]
         }
       ]
     }
