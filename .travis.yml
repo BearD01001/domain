@@ -5,7 +5,7 @@ node_js:
 env:
   global:
     - GIT_NAME: BearD01001
-    - GIT_EMAIL: d@vsv.io
+    - GIT_EMAIL: dino@beard.ink
     - GITHUB_REPO: BearD01001/domains
     - GIT_SOURCE: _docpress
 
